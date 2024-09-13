@@ -1,0 +1,57 @@
+[
+    {
+      "ID": "BasicTechnicalWriting",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Basic Technical Writing",
+      "ShortDesc": "This course focuses on understanding the basics of technical writing and developing technical writing skills."
+    },
+    {
+      "ID": "ConfluenceAdvanced",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Confluence Advanced",
+      "ShortDesc": "This course focuses to ensure your documentation-type content is easy to manage and consume."
+    },
+    {
+      "ID": "ConfluenceBasic",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Confluence Basic",
+      "ShortDesc": "This course guide end users to create their own easy to use and well-formatted content."
+    },
+    {
+      "ID": "XMLAuthor",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "XML Author",
+      "ShortDesc": "This course focuses deepen the knowledge in XML Author, in any industry."
+    },
+    {
+      "ID": "AdvancedTechnicalWriting-API",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Advanced Technical Writing - API",
+      "ShortDesc": "This course focuses on deepening the knowledge of technical content deliverable."
+    },
+    {
+      "ID": "BasicDITA-XML",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Basic DITA-XML",
+      "ShortDesc": "This course focuses on individuals keen to broaden their knowledge or specialize in basic DITA-XML."
+    },
+    {
+      "ID": "AdvancedDITA-XML",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "Advanced DITA-XML",
+      "ShortDesc": "This course focuses on individuals keen to broaden their knowledge or specialize in advanced DITA-XML."
+    },
+    {
+      "ID": "xMetaLAuthor",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "xMetal Author",
+      "ShortDesc": "Learn xMetal for XML based authoring to manage high volume structured content."
+    },
+    {
+      "ID": "MadCapFlare",
+      "ImageUrl": "Images/image1.jpg",
+      "Name": "MadCap Flare",
+      "ShortDesc": "This course focuses on developing technical writing skills for Madcap Flare."
+    }
+  ]
+  
